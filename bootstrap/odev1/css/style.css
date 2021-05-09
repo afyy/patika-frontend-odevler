@@ -1,0 +1,19 @@
+.bg-g {
+  background-color: #E9ECEF;
+}
+.txt-r {
+  color: red;
+}
+.txt-y {
+  color: rgb(193, 135, 0);
+}
+.ls-i {
+  list-style-position: inside;
+}
+.txt-m {
+  text-align: center;
+  margin-top: 10px;
+}
+.txt-p {
+  color: purple;
+}
